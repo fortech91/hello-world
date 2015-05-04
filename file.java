@@ -1,1 +1,6 @@
-public class File{} 
+public class File{
+
+public static void main() {} 
+
+
+} 
